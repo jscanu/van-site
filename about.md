@@ -4,10 +4,10 @@
 
 some text
 
-![https://scanuproductions.com/images/coming-soon.png](Image example)
+![Image Example](https://scanuproductions.com/images/coming-soon.png)
 *Italicised Text*
 **Bolded Text**
-#[https://scanuproductions.com](The best website)
+#[The best website](https://scanuproductions.com)
 <textarea>
 I believe you can also just put HTML in here
 </textarea>
