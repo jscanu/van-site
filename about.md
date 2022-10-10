@@ -12,4 +12,4 @@ some text
 I believe you can also just put HTML in here
 </textarea>
 *Testing Video Embed*
-<video src="videos/rick.mp4"></video
+<video src="/van-site/videos/rick.mp4"></video
