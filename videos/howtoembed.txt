@@ -1,0 +1,1 @@
+In any file, add <video src="videos/[VIDEO_URL].mp4"></video>
