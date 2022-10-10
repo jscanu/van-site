@@ -13,5 +13,5 @@ I believe you can also just put HTML in here
 </textarea>
 *Testing Video Embed*
  <video width="500" height="250" controls>
-  <source src="/videos/van-site/rick.mp4" type="video/mp4">
+  <source src="/van-site/videos/rick.mp4" type="video/mp4">
 </video> 
