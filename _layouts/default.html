@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/van-site/styles/' | append: relative_url }}">
+    <link rel="stylesheet" href="/van-site/styles/sitewide.css">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -38,20 +39,11 @@
         {% endif %}
       </header>
 
-      <section>
+      <div class="mainContent">
         {{ content }}
-      </section>
+      </div>
 
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    <style>
-      .navLogo {
-        width:75%;
-        margin: auto;
-        margin-top: 15px;
-        margin-bottom: 15px;
-        border: none;
-      }
-    </style>
   </body>
 </html>
