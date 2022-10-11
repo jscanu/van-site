@@ -1,1 +1,4 @@
-In any file, add <video src="videos/[VIDEO_URL].mp4"></video>
+In any file, add:
+<video width="500" height="250" controls>
+  <source src="/van-site/videos/[VIDEO_NAME].mp4" type="video/mp4">
+</video> 
