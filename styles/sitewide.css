@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 /* Nav Bar Styling */
 header {
   position: fixed;
@@ -40,6 +44,7 @@ header li a {
   color: #eee;
   margin-left: 15px;
   line-height: 2em;
+  text-decoration: none;
 }
 
 header li:hover {
