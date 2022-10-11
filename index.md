@@ -1,5 +1,5 @@
 <div class="headerImg" style="background: url('/van-site/images/van1.jpg');">
-  <h1>JScanu Van Retals</h1>
+  <h1>JScanu Van Rentals</h1>
 </div>
 
 ## 2020 Winnebago Revel
