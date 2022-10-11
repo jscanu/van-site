@@ -1,0 +1,55 @@
+/* Nav Bar Styling */
+header {
+  position: fixed;
+  top: 15px !important;
+  left: 15px;
+  height: calc(100vh - 30px) !important;
+  width: 20vw;
+  overflow: hidden;
+  margin: 0px;
+  border-radius: 15px !important;
+  padding: 0px;
+  box-shadow: -2px 2px 3px rgba(0, 0, 0, .3);
+  background: #222;
+  color: #eee;
+}
+
+.navLogo {
+  border: none;
+}
+
+header li {
+  margin: 0px;
+  background: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  padding: 0px;
+  max-width: 100%;
+  display: block;
+  border-radius: 0px;
+  transition-duration: .52s;
+  display: block;
+}
+
+header li a {
+  color: #eee;
+  margin-left: 15px;
+  line-height: 2em;
+}
+
+header li:hover {
+  background: firebrick;
+}
+
+header ul {
+  margin: 0px;
+  padding: 0px;
+  display: block;
+}
+
+/* Place all other content to the side */
+.mainContent {
+  margin-left: calc(20vw + 30px);
+  width: calc(80vw - 30px);
+}
