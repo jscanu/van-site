@@ -15,6 +15,10 @@ header {
 }
 
 .navLogo {
+  width:75%;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
   border: none;
 }
 
