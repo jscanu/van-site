@@ -8,7 +8,7 @@ header {
   top: 15px !important;
   left: 15px;
   height: calc(100vh - 30px) !important;
-  width: 20vw;
+  width: 220px;
   overflow: hidden;
   margin: 0px;
   border-radius: 15px !important;
@@ -59,8 +59,8 @@ header ul {
 
 /* Place all other content to the side */
 .mainContent {
-  margin-left: calc(20vw + 30px);
-  width: calc(80vw - 30px);
+  margin-left: 250px;
+  width: calc(100vw - 250px);
 }
 
 /* Default image styles */
